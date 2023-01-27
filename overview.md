@@ -8,13 +8,13 @@
 - Creating anonymous procedures with `lambda`.
 - Creating identifiers with `define`.
 
-#### Unit II: Boolean Values and Conditional Statements
+#### [Unit II: Boolean Values and Conditional Statements](units/unit01_boolean-conditionals.md)
 - What are Boolean values?
 - How do comparison operators work?
 - What are Boolean operators?
 - Using functions that return Boolean values.
-- Using `If`.
-- Using `Cond`.
+- Using `if`.
+- Using `cond`.
 
 #### Unit III: Lists and Recursion
 - What is a data structure?

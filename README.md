@@ -4,10 +4,10 @@
 To realign the Stuyvesant Intro CS curriculum with its intended goals. (DW: there's much more to this, just a stub to get going).
 
 ### Organization
-- [Overview](overview.md): Sequential list of the main units, along with the core concepts for each unit. 
+- [Overview](overview.md): Sequential list of the main units, along with the core concepts for each unit.
 - [Units](units/): Folder containing:
   - Main organization document for each unit.
-  - Subfolders for each unit for furtehr unit specific resources (assignments, labs, lessons, etc).
+  - Subfolders for each unit for further unit specific resources (assignments, labs, lessons, etc).
 
 ### Plan of Attack
 1. Complete the overview.
