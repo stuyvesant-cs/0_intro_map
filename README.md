@@ -13,5 +13,6 @@ To realign the Stuyvesant Intro CS curriculum with its intended goals. (DW: ther
 1. Complete the overview.
 2. Complete the main organization document for each unit.
 3. Add resources to subfolders.
+
 Stretch Goal:
 - If we get enough backers, start working on an ebook using [runesonte](https://github.com/RunestoneInteractive/RunestoneComponents)
