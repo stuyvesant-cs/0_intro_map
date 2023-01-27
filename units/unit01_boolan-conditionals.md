@@ -1,7 +1,6 @@
 # StuyCS Annual Intro Term 0
 
-
-#### Unit II: Boolean Values and Conditional Statements
+## Unit II: Boolean Values and Conditional Statements
 
 ### Concepts
 1. What are Boolean values?
