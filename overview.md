@@ -52,18 +52,18 @@
 - Using buttons and sliders in the interface.
 - Writing Reporter functions.
 - Using monitors.
-
-#### Unit VIII: Advanced Control of Agents and Age Sets
 - Using with to filter agent sets.
 - Using ask to direct specific agents and agent sets.
-- Creating and using custom properties.
-- Creating and using breeds.
-- Turtle-Patch interaction
 
-#### Unit IX: Working With Patches
+#### Unit VIII: Working With Patches
 - Patch properties.
 - What are cellular automata, including Conway’s Game of Life.
 - Programming Conway’s Game of Life and other life-like cellular automata.
+
+#### Unit IX: Advanced Control of Agents and Agent Sets
+- Creating and using custom properties.
+- Creating and using breeds.
+- Turtle-Patch interaction
 
 #### Unit X: Building larger Programs
 - Designing & Prototyping projects before programming.
