@@ -14,7 +14,7 @@
 
 ### Language Features
 1. Basic prefix notation
-    - `( OPERATOR OPERANDS )`
+    - `( OPERATOR OPERANDS )`gowri?
     - `(+ 3 7)`
 2. Using provided functions
    - `(sqrt 16)`
